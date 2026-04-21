@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">WolfCatchEggs</string>
+
+    <!-- Главный экран -->
+    <string name="title_wolf_catch_eggs">ВОЛК ЛОВИТ ЯЙЦА</string>
+    <string name="current_settings">Текущие настройки</string>
+    <string name="btn_play">ИГРАТЬ</string>
+    <string name="btn_settings">НАСТРОЙКИ</string>
+    <string name="btn_records">РЕКОРДЫ</string>
+    <string name="wolf_image">Изображение волка</string>
+
+    <!-- Экран игры -->
+    <string name="game_title">🐺 ВОЛК ЛОВИТ ЯЙЦА 🥚</string>
+    <string name="score_format">Счёт: %d</string>
+    <string name="game_running">Игра идет…</string>
+    <string name="game_started">Игра началась! Лови яйца!</string>
+    <string name="egg_falling">🥚 Яйцо падает! Лови!</string>
+    <string name="no_more_eggs">Больше яиц нет! Завершай игру.</string>
+    <string name="btn_catch">ПОЙМАТЬ ЯЙЦО</string>
+    <string name="btn_finish_game">ЗАВЕРШИТЬ ИГРУ</string>
+    <string name="caught_success">✅ Поймал! +%d очков</string>
+    <string name="caught_miss">❌ Промах!</string>
+    <string name="game_finished">Игра завершена! Счёт: %d</string>
+    <string name="new_record">🎉 НОВЫЙ РЕКОРД! 🎉</string>
+
+    <!-- Экран рекордов -->
+    <string name="records_title">🏆 ТАБЛИЦА РЕКОРДОВ 🏆</string>
+    <string name="loading">Загрузка…</string>
+    <string name="last_games">Последние игры:</string>
+    <string name="no_data">Нет данных</string>
+    <string name="btn_clear_records">СБРОСИТЬ РЕКОРДЫ</string>
+    <string name="btn_back">НАЗАД</string>
+    <string name="record_holder_format">🥇 Рекордсмен: %s</string>
+    <string name="best_score_format">🎯 Лучший счёт: %d</string>
+    <string name="games_played_format">🎮 Сыграно игр: %d</string>
+    <string name="total_eggs_format">🥚 Всего поймано яиц: %d</string>
+    <string name="records_cleared">Рекорды сброшены</string>
+
+    <!-- Настройки -->
+    <string name="player_name_title">Имя игрока</string>
+    <string name="player_name_summary">Введите ваше имя</string>
+    <string name="difficulty_title">Сложность</string>
+    <string name="difficulty_summary">Выберите уровень сложности</string>
+    <string name="sound_title">Звук</string>
+    <string name="sound_summary">Включить звуковые эффекты</string>
+    <string name="vibration_title">Вибрация</string>
+    <string name="vibration_summary">Включить вибрацию при столкновениях</string>
+    <string name="settings_category_main">Основные настройки</string>
+    <string name="default_player_name">Игрок</string>
+    <string name="not_specified">Не указано</string>
+    <string name="sound_on">Вкл</string>
+    <string name="sound_off">Выкл</string>
+
+</resources>
